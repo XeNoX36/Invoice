@@ -1,6 +1,5 @@
 ## Schema
 ```sql
--- Years wise loan amount
 select *
 from Finance_1
 ```
